@@ -3,6 +3,15 @@
 Troca badwords (nome de youtubers) por nome de gatinhos
 
 ## Instalando dependências
+
+Ao invés de executar comando por comando, execute o arquivo install_deps.sh. É necessário ter npm instalado
+
+```
+chmod +x install_deps.sh
+./install_deps.sh
+```
+
+
 ```
 sudo apt install curl  
 sudo apt install python3-pip  
